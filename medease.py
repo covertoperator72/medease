@@ -3,7 +3,7 @@ import requests
 from streamlit_lottie import st_lottie
 from PIL import Image
 # Set up the page configuration
-st.set_page_config(page_title="MedEase", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="MedEase", page_icon=":smirk:", layout="wide")
 image_medease = Image.open('images/logo.png')
 st.image(image_medease)
 # Function to load Lottie animation from a URL
