@@ -76,4 +76,4 @@ with st.container():
     st.write('---')
     st.header("Our Achievements:")
     st.write('Well, uhh, no achievements yet, but hey, we have a website, thats an achievement right!, butt anyway, here`s a video just for youu')
-    st.markdown('[Watch Video...](https://youtu.be/fMCN-b0ic_k?si=Y7FMKg-XldX0zOqY)')
+    st.markdown('[Watch Video...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)')
